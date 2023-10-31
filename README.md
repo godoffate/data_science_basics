@@ -1,1 +1,1 @@
-# data_science_basics
+# DATA SCIENCE BASICS
